@@ -2,4 +2,4 @@
 * [videojs playlist](https://github.com/brightcove/videojs-playlist)
 * [videojs youtube](https://github.com/videojs/videojs-youtube)
 
-clone from [](https://github.com/chicpro/videojs-youtube-playlist)
+clone from [github repository](https://github.com/chicpro/videojs-youtube-playlist)
